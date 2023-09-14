@@ -1,7 +1,7 @@
 ### DisplaCify App
 #### Using Displacy in Flask
 
-+ This is to demonstrate how to render Named Entity Recognition with Displacy in Flask
++ This is to demonstrate how to render Named Entity Recognition with Displacy in Flask with Waypoint
 
 #### Requirements
 + Flask
